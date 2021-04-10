@@ -1,0 +1,50 @@
+#profile{
+    height: 70px;
+        width: 70px;
+}
+#img-responsive{
+    height: 100px;
+    width: 100px;
+}
+.travel_mainDiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: opx;
+    float: none;
+}
+.travel_mainDiv img{
+    width: 100%
+}
+.travel_mainDiv{
+    width: 230px;
+}
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin-left: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: coral;
+}
+.new_li{
+    margin-top: 13px;
+}
+.new_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.new_li img{
+    border-radius: 25px;
+}
+.new_li p{
+    margin-top: 10px;
+}
